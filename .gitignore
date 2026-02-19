@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.npy
+*.memmap
+*.keras
+*.log
+DATASETS/
