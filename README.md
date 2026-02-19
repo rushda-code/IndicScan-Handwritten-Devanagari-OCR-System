@@ -13,7 +13,7 @@ IndicScan is a CPU-based handwritten Devanagari OCR system developed as part of 
 
 ## Dataset
 The dataset is available on Kaggle:
-[IndicScan Dataset](PASTE_YOUR_KAGGLE_LINK_HERE)
+[IndicScan Dataset](https://www.kaggle.com/datasets/rushdaismailaslami/handwritten-devanagari-character-and-word-dataset)
 
 Character dataset: ~1.6 lakh images (44 classes used for training)
 Word dataset: ~800 labeled handwritten words
